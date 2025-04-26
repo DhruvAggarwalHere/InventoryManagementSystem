@@ -4,9 +4,6 @@ This application provides an intuitive graphical interface to manage products, s
 Built with Maven, includes JUnit testing, and supports features like search, stock alerts, data export/import, and graphs using JFreeChart.
 
 📂 Project Structure
-bash
-Copy
-Edit
 inventory-management/
 ├── database/
 │   └── inventory.db            # SQLite Database
